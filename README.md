@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @ayushxx01
-- 👀 I’m interested in web development and app development
-- 🌱 I’m currently learning Html, CSS, JS, Java and REACT
+- 👋 Hi, I’m @ayushxx01.
+- 👀 I’m currently exploring.
+- 🌱 I’m currently learning Html, CSS, JS, Java and REACT.
 - 💞️ I’m looking to collaborate on various projects concerning my field.
 - 📫 Reach me via LinkedIN(https://www.linkedin.com/in/ayush-sharma-xx01) or DISCORD(shinmen.takezou)
 
