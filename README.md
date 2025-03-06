@@ -1,6 +1,6 @@
 # 💫 About Me:
-<div align="center">
-  ![GIF](https://tenor.com/bRTO8.gif)
+<div align="start">
+  <img src="https://tenor.com/bRTO8.gif" width="400"/>
 </div>
 I'm currently learning JavaScript<br>I'm currently working on Flutter App Dev project
 
