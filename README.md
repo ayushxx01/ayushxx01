@@ -1,6 +1,7 @@
 # 💫 About Me:
 <div align="start">
-  ![onizuka-gto](gif/onizuka-gto.gif)
+  ![onizuka-gto](https://github.com/user-attachments/assets/c52c87c3-7fe0-4a65-8004-75b0244d1d91)
+
 </div>
 I'm currently learning JavaScript<br>I'm currently working on Flutter App Dev project
 
