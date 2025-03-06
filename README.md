@@ -1,6 +1,6 @@
 # 💫 About Me:
 <div align="start">
-  <img src="https://tenor.com/bRTO8.gif" width="400"/>
+  <img src="[https://tenor.com/bRTO8.gif](https://media1.tenor.com/m/_kj__vn8qe4AAAAC/onizuka-gto.gif)" width="400"/>
 </div>
 I'm currently learning JavaScript<br>I'm currently working on Flutter App Dev project
 
