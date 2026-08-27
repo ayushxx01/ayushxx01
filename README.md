@@ -3,7 +3,8 @@
 <h1 align="center">Hi 👋, I'm Ayush</h1>
 <h3 align="center">Software engineer</h3>
 
-[![LeetCode Stats](https://www.readmecodegen.com/api/leetcode-stats?username=ayushxx01&theme=tokyonight)](https://www.readmecodegen.com/leetcode-stats-generator/leetcode-stats-card-generator-for-github)
+[![LeetCode Stats](https://www.readmecodegen.com/api/leetcode-stats?username=ayushxx01&theme=tokyonight)](https://www.readmecodegen.com/leetcode-stats-generator/leetcode-stats-card-generator-for-github) 
+https://githubcard.com/ayushxx01.svg?d=SRFkqdHbIBiV
 
 <p align="left"> <a href="https://twitter.com/paneerparanthas" target="blank"><img src="https://img.shields.io/twitter/follow/paneerparanthas?logo=twitter&style=for-the-badge" alt="paneerparanthas" /></a> </p>
 
